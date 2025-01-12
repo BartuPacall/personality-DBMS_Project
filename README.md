@@ -26,5 +26,5 @@ You can search for the personality types of famous people on our site.
 ---
 
 ## Notes
-- The `.bat` files automatically handle dependency installation and server startup.
+- The `.bat` files automatically server startup.
 - If you encounter any errors, check the terminal logs for details.
