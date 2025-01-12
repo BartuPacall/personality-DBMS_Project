@@ -6,8 +6,6 @@ You can search for the personality types of famous people on our site.
 ## Preview of the Personality Page
 ![Personality Page](https://github.com/user-attachments/assets/b55dde96-4673-4c2e-a385-b2f31cd4c8a0)
 
----
-
 ## How to Run the Project
 
 ### Steps to Run
