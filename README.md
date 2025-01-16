@@ -5,7 +5,8 @@ This project shows us celebrities‘ personality types determined by different m
 
 ## Preview of the Personality Page
 ![Personality Page](https://github.com/user-attachments/assets/b55dde96-4673-4c2e-a385-b2f31cd4c8a0)
-![EER-diagram-mbti](https://github.com/user-attachments/assets/66981bdd-61bf-4f3c-a19b-0f624281c041)
+![celebs_personality](https://github.com/user-attachments/assets/41fc0231-9ec6-4bad-9282-d870d7d5a1cb)
+
 
 
 ## How to Run the Project
