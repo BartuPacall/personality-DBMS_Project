@@ -1,10 +1,13 @@
 # DBMS Project - Personalities of Celebrities Web Pages
 
 ## Purpose of the Project
-You can search for the personality types of famous people on our site.
+This project shows us celebrities‘ personality types determined by different methods(INTP, ennegram, jungian etc.) from different categories such as sports, cinema, historical figures etc. You can search for the personality types of famous people on our site. 
 
 ## Preview of the Personality Page
 ![Personality Page](https://github.com/user-attachments/assets/b55dde96-4673-4c2e-a385-b2f31cd4c8a0)
+![celebs_personality](https://github.com/user-attachments/assets/41fc0231-9ec6-4bad-9282-d870d7d5a1cb)
+
+
 
 ## How to Run the Project
 
@@ -26,5 +29,5 @@ You can search for the personality types of famous people on our site.
 ---
 
 ## Notes
-- The `.bat` files automatically handle dependency installation and server startup.
+- The `.bat` files automatically server startup.
 - If you encounter any errors, check the terminal logs for details.
